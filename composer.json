@@ -1,0 +1,21 @@
+{
+  "name": "kryptoknight/app-insights",
+  "description": "Symfony Bundle to communicate with Azure Application Insights ",
+  "type": "symfony-bundle",
+  "require": {
+    "php": ">=8.2",
+    "symfony/framework-bundle": "^6.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Kryptoknight\\AppInsights\\": "src/"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mark Dalbyr",
+      "email": "mark@dalby.io"
+    }
+  ]
+}
