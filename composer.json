@@ -1,5 +1,5 @@
 {
-  "name": "kryptoknight/app-insights",
+  "name": "kryptoknight/appinsights",
   "description": "Symfony Bundle to communicate with Azure Application Insights ",
   "type": "symfony-bundle",
   "require": {
